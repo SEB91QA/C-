@@ -1,0 +1,15 @@
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.deps.json
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.runtimeconfig.json
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.dll
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/bin/Debug/net6.0/AccountTest.pdb
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.csproj.AssemblyReference.cache
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.AssemblyInfoInputs.cache
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.AssemblyInfo.cs
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.csproj.CoreCompileInputs.cache
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.dll
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/refint/AccountTest.dll
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.pdb
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/AccountTest.genruntimeconfig.cache
+/Users/sebastianquinteroarias/Desktop/C#/Classes, Objects, Methods & Strings/AccountTest/AccountTest/obj/Debug/net6.0/ref/AccountTest.dll
